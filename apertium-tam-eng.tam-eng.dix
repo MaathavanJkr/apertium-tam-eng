@@ -292,7 +292,6 @@
       <e><p><l>பார்வை<s n="n"/></l><r>vision<s n="n"/></r></p></e>
       <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oases<s n="n"/></r></p></e>
       <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
-      <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
       <e><p><l>பிரதேசங்கள்<s n="n"/></l><r>territories<s n="n"/></r></p></e>
       <e><p><l>புத்தகம்<s n="n"/></l><r>book<s n="n"/></r></p></e>
       <e><p><l>புரவலர்<s n="n"/></l><r>patron<s n="n"/></r></p></e>
@@ -321,7 +320,6 @@
       <e><p><l>மருந்தகம்<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
       <e><p><l>மலர்<s n="n"/></l><r>flower<s n="n"/></r></p></e>
       <e><p><l>மலைத்தொடர்கள்<s n="n"/></l><r>ghats<s n="n"/></r></p></e>
-      <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மழை<s n="n"/><s n="sg"/></l><r>rain<s n="n"/></r></p></e>
       <e><p><l>மனைவி<s n="n"/></l><r>wife<s n="n"/></r></p></e>
@@ -482,12 +480,12 @@
       <!-- SECTION: Verbs -->
       
       <e><p><l>எறி<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-		<e><p><l>எடு<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
-		<e><p><l>கிடை<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
-		<e><p><l>பற<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
-		<e><p><l>தாண்டு<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
-		<e><p><l>செல்<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
-		<e><p><l>விரும்பு<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+      <e><p><l>எடு<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+      <e><p><l>கிடை<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+      <e><p><l>பற<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
+      <e><p><l>தாண்டு<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
+      <e><p><l>செல்<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+      <e><p><l>விரும்பு<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
 
       <e><p><l>இரு<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
